@@ -1,0 +1,67 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darksalmon;
+}
+
+/*navigation div style*/
+div.navigate {
+    padding-top: 0;
+    background-color: rgb(118, 118, 187);
+    text-align: center;
+}
+
+div.navigate h3 {
+    color: rgb(50, 161, 7);
+    font-size: 400%;
+}
+
+div.navigate li {
+    display: inline;
+    font-size: 180%;
+    padding: 20pt;
+    text-align: center;
+}
+
+div.navigate li a {
+    color: black;
+}
+
+div.navigate ul {
+    background-color: orangered;
+    text-align: center;
+}
+
+div.sidebar {
+    float: right;
+    text-align: center;
+    background-color: fuchsia;
+    padding: 10pt;
+}
+
+div.sidebar li {
+    padding: 5pt;
+    display: block;
+    color: rgb(1, 36, 41);
+}
+
+img {
+    width: 20em;
+    height: 20em;
+}
+
+.no {
+    display: block;
+}
+
+li a:hover {
+    background-color: coral;
+}
+
+ul {
+    background-color: darkgoldenrod;
+}
+
+p {
+    background-color: darkgoldenrod;
+}

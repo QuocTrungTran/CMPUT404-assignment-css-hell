@@ -22,7 +22,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
-Changes made in HTML files
+Changes made in HTML files for Part 1
 =================
 1. Customize the style of html files with a new style from styles.css file
 2. Delete a few style tags in html files as they will be replaced by styles.css
